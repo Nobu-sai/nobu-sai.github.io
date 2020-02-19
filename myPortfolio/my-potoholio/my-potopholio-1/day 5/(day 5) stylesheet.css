@@ -1,0 +1,67 @@
+header {
+  background-color: lightblue;
+  height: 100px;
+}
+
+.header-list li {
+  display: inline-block;
+  text-decoration: none;
+  color: black;
+}
+
+.header-list a:hover,
+.contents .section-title > a:hover,
+.Skills-list li > a {
+  color: royalblue;
+}
+
+.current {
+  border-bottom: 4px solid royalblue;
+}
+
+
+.contents h1 {
+  border: 1px soloi lightgray;
+}
+
+
+
+
+.main-logo {
+  font-size: 70px;
+}
+
+.main p {
+  font-size: 40px;
+  color: #777;
+}
+
+.section-title {
+  font-size: 35px;
+}
+
+.Skills-list > li{
+  font-size: 40px;
+}
+
+footer {
+  background-color: lightgray;
+}
+
+footer h1 {
+  font-size: 35px;
+}
+
+.footer-list p {
+  font-size: 20px;
+}
+
+
+.footer-list li {
+  display: inline-block;
+}
+
+
+.comentary {
+  font-size: 50px;
+}
