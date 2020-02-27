@@ -4,7 +4,7 @@
 <html>
   <head>
     <title>The Portfolio Site by Nobe</title>
-    <link rel="stylesheet" href="../myPortfolio/styles/general.css">
+    <link rel="stylesheet" href="myPortfolioSite/styles/general.css">
     <link rel="stylesheet" href="styles/header.css">
     <link rel="stylesheet" href="styles/myPortfolioSite_styles.css">
 
