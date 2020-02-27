@@ -1,0 +1,66 @@
+
+
+
+/* <div id="container">/<div id="self-introduction"> */
+
+/* <div id="my-skill-sets" class="section"> */
+
+/* <div id="my-plan" class="section"> */
+#my-plan {
+}
+
+
+.table {
+  margin: 0 auto;
+  border-radius: 20px;  
+  width: 80%; 
+}
+
+.table table,
+.table th,
+.table td {
+  border: 2px solid hsl(0, 0%, 60%); 
+}
+
+.table th,
+.table td {
+  padding: 10px 0; 
+  width: 20%; 
+  background-color: hsla(0, 0%, 100%, 0.4);
+  color: #000; 
+}
+
+.table th:hover,
+.table td:hover {
+  background-color: hsla(0, 0%, 100%, 1);
+}
+
+.table td {
+  text-align: center; 
+}
+
+.table tfoot a {
+  color: #000; 
+}
+
+.table tfoot a:hover {
+  color: hsl(40, 100%, 55%); 
+}
+
+
+
+@media screen and (max-width: 1000px) {
+  /*  */
+  h1#main-header {
+    margin: 200px 40px 40px; 
+    font-size: 50px;
+  }
+
+  #self-introduction {
+
+  }
+
+
+}
+
+
